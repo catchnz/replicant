@@ -13,7 +13,7 @@
 		"govtnz/databasetools": "dev-master",
 		"govtnz/filesystemtools": "dev-master",
 		"govtnz/collectiontools": "dev-master",
-		"unclecheese/display-logic": "dev-master"
+		"unclecheese/display-logic": "*@stable"
  	},
 	"authors": [
  		{
